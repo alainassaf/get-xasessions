@@ -10,7 +10,7 @@ SYNOPSIS<br>
     Displays total, active, and disconnected sessions from xA 6.x farm
     
 SYNTAX<br>
-    get-xasessions.ps1 [[-XMLBroker] <Object>] [<CommonParameters>]
+	get-xasessions.ps1 [[-XMLBroker] \<Object\>] [\<CommonParameters\>]
     
 DESCRIPTION<br>
     Displays total, active, and disconnected sessions from xA 6.x farm
